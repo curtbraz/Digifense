@@ -1,0 +1,2 @@
+# Digifense
+Coming Soon!  My solution for the lack of security in IoT devices, I started a cloud-based SOC company leveraging home consumer compatible routers as Intrusion Detection devices.  Because of a lack of funding and marketing resources, it unfortunately didn't take off.. but I'd love to give back to the security community and plan to open source this soon, as soon as I clean up the code.  Stay tuned! 
